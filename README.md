@@ -1,5 +1,6 @@
 # TCS-NQT
 tcs nqt sheet by striver bhaiya questions
+Problem 18
 #Print all the duplicates in the string 
 - using a map data structure 
 - two for loops 
