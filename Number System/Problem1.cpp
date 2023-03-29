@@ -25,3 +25,4 @@ int main()
 }
 
 /* For mathematical logics you can refer this site */ :-  https://www.cuemath.com/numbers/binary-to-decimal/
+
